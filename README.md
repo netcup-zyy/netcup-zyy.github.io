@@ -176,7 +176,7 @@
         </div>
     </div>
     <div class="footer">
-        &copy; 2023 比赛组委会 版权所有
+        &copy; 2025 張耀揚 版权所有
     </div>
 </body>
 </html>
